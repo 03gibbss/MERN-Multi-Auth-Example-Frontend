@@ -1,3 +1,9 @@
+Simple example of how to implement multiple login types in a MERN application.
+
+Frontend client running react.
+
+Adapted from this tutorial: https://www.codingdeft.com/posts/react-authentication-mern-node-passport-express-mongo/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
